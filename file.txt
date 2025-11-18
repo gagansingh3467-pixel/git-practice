@@ -1,2 +1,1 @@
-hello git
-This is a change in a dev branch
+This line is from dev branch conflict test
