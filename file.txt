@@ -1,1 +1,1 @@
-This line is from dev branch conflict test
+This line is from dev branch
